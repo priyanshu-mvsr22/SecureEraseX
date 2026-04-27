@@ -1,0 +1,17 @@
+======================================================================
+  SecureEraseX - Certified Wipe Report
+======================================================================
+Report ID  : SX-T80757K2
+Timestamp  : 17 April 2026  12:08:57
+
+Drive      : H: |  USB  SanDisk 3.2Gen1 USB Device
+Type       : USB  |  29 GB
+Method     : Fast – USB Sanitize (Format + Trim)
+Passes     : 1
+New FS     : NTFS
+Duration   : 8.8 seconds
+
+[INFO] Starting wipe: H: | Method: Fast – USB Sanitize (Format + Trim) | FS: NTFS
+[INFO] Starting Fast – USB Sanitize (Format + Trim) on H:...
+[OK] Wipe complete in 8.8s. Drive securely erased.
+[OK] Report saved: C:/Users/Aparn/Desktop/SecureEraseX/SecureEraseX_Report_H_20260417_120859.pdf

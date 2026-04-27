@@ -1,0 +1,8 @@
+{
+    "device": "H:",
+    "wipe_device": "H:",
+    "method": "Fast \u2013 USB Sanitize (Format + Trim)",
+    "filesystem": "NTFS",
+    "verification": "PASS",
+    "timestamp": "2026-04-17T12:08:57.499763"
+}

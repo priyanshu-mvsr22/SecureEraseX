@@ -1,0 +1,6 @@
+{"time": "2026-04-08T16:06:41.183393", "event": "WIPE_COMPLETED", "details": {"device": "H:", "wipe_device": "H:", "method": "Standard \u2013 Single Pass  (1\u00d7 zero overwrite)", "filesystem": "NTFS", "verification": "PASS"}}
+{"time": "2026-04-08T16:40:21.132129", "event": "WIPE_COMPLETED", "details": {"device": "H:", "wipe_device": "H:", "method": "Standard \u2013 Single Pass  (1\u00d7 zero overwrite)", "filesystem": "NTFS", "verification": "PASS"}}
+{"time": "2026-04-17T10:32:21.416661", "event": "WIPE_COMPLETED", "details": {"device": "D:", "wipe_device": "D:", "method": "Fast \u2013 USB Sanitize (Format + Trim)", "filesystem": "NTFS", "verification": "PASS"}}
+{"time": "2026-04-17T10:43:52.752892", "event": "WIPE_COMPLETED", "details": {"device": "D:", "wipe_device": "D:", "method": "Fast \u2013 USB Sanitize (Format + Trim)", "filesystem": "exFAT", "verification": "PASS"}}
+{"time": "2026-04-23T17:42:05.743801", "event": "WIPE_COMPLETED", "details": {"device": "I:", "wipe_device": "I:", "method": "Standard \u2013 Single Pass  (1\u00d7 zero overwrite)", "filesystem": "NTFS", "verification": "PASS"}}
+{"time": "2026-04-23T17:43:00.444782", "event": "WIPE_COMPLETED", "details": {"device": "I:", "wipe_device": "I:", "method": "Standard \u2013 Single Pass  (1\u00d7 zero overwrite)", "filesystem": "NTFS", "verification": "PASS"}}

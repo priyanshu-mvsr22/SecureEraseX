@@ -1,0 +1,1 @@
+{"time": "2026-04-17T12:08:57.501751", "event": "WIPE_COMPLETED", "details": {"device": "H:", "wipe_device": "H:", "method": "Fast \u2013 USB Sanitize (Format + Trim)", "filesystem": "NTFS", "verification": "PASS"}}

@@ -1,0 +1,8 @@
+{
+    "device": "I:",
+    "wipe_device": "I:",
+    "method": "Standard \u2013 Single Pass  (1\u00d7 zero overwrite)",
+    "filesystem": "NTFS",
+    "verification": "PASS",
+    "timestamp": "2026-04-23T17:43:00.443121"
+}
